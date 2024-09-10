@@ -15,10 +15,10 @@ Este proyecto permite anuncios y campañas desde un script (`demo.py`), procesar
 
 Encuesta predefinida, interactiva con el usuario:
 
-- `demo.py`: : Script principal que genera los anuncios, las campañas y modifica atributos de los mismos y los imprime en la consola.
+- `demo.py`: Script principal que genera los anuncios, las campañas y modifica atributos de los mismos y los imprime en la consola.
 - `anuncio.py`: Almacena la clase Anuncio, que genera una clase padre con atributos base, y sus clases hijas que se generan cada una con sus atributos especificos de ser el caso.
 - `campana.py`: Almacena la clase Campana, que en primera instancia, crea los atributos necesarios para una campaña y crea un listado con los anuncios generados, llamando a la clase anuncio, para generarlos pasandole los atributos necesarios de cada anuncio.
-- `error.log`: : Archivo que registra cualquier error que ocurra durante la ejecución del programa..
+- `error.log`: Archivo que registra cualquier error que ocurra durante la ejecución del programa..
 
 ## Diagrama de Clases
 ![Diagrama de clases](/Diagrama%20de%20Clases%20Prueba%20POO%20con%20Python.png)

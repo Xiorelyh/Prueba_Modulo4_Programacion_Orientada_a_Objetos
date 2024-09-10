@@ -1,4 +1,4 @@
-﻿# Instancias de usuario
+﻿# Prueba - Programación avanzada en Python
 
 ## Grupo 6 - Participantes
 

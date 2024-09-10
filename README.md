@@ -9,7 +9,7 @@
 
 ## Descripción del proyecto
 
-Este proyecto permite anuncios y campañas desde un script (`demo.py`), procesar la información y mostrarla en consola. Los datos de las campañas y anuncios se convierten en instancias de la clase `Campana` y `Anuncio`, y cualquier error que ocurra durante la lectura o conversión de los datos es registrado en un archivo de log (`error.log`).
+Este proyecto permite anuncios y campañas desde el archivo (`demo.py`), procesar la información y mostrarla en consola. Los datos de las campañas y anuncios se convierten en instancias de la clase `Campana` y `Anuncio`, y cualquier error que ocurra durante la lectura o conversión de los datos es registrado en un archivo de log (`error.log`).
 
 ## Contenido
 

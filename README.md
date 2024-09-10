@@ -28,7 +28,7 @@ Encuesta predefinida, interactiva con el usuario:
 Puedes realizar un fork desde tu Github, o clonar mi proyecto.
 
 ```bash
-git clone git@github.com:Xiorelyh/Prueba_Modulo4_Programacion_Orientada_a_Objetos.git
+git clone git@github.com:Xiorelyh/Prueba_Modulo4_Programacion_avanzada_en_Python.git
 ```
 
 ## Instrucciones para Ejecutar el Proyecto
